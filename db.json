@@ -1,0 +1,39 @@
+{
+	"states":	[
+		{
+			"name": "California",
+			"abbreviation": "CA"
+		},
+		{
+			"name": "Florida",
+			"abbreviation": "FL"
+		},
+		{
+			"name": "New York",
+			"abbreviation": "NY"
+		},
+		{
+			"name": "Texas",
+			"abbreviation": "TX"
+		},
+		{
+			"name": "Virginia",
+			"abbreviation": "VA"
+		},
+		{
+			"name": "Washington",
+			"abbreviation": "WA"
+		},
+		{
+			"name": "Wisconsin",
+			"abbreviation": "WI"
+		},
+		{
+			"name": "Wyoming",
+			"abbreviation": "WY"
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}	
+}	
